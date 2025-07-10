@@ -1,4 +1,6 @@
-#### Swinburne University of Technology
-#### COS30018 - Assignment A2: Traffic Flow Prediction System
+#### Traffic Flow Prediction System
 
-To run the application, clone the project, then type python main.py in the terminal.
+To run the application:
+1.  Clone the project
+2.  Activate virtual environment. Type ".\.venv\Scripts\activate" in the terminal.
+3.  Then type python main.py in the terminal.
