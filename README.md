@@ -1,4 +1,10 @@
 # Traffic Flow Prediction Demo
+
+To run the application:
+1. Clone the project
+2. Activate virtual environment. Type "..venv\Scripts\activate" in the terminal.
+3. Then type python main.py in the terminal.
+
  My contributions to this project:
  1. Training both v1 and v2 models for lstm, gru, and saesv2
  2. Constructing and visualising node graph of SCAT sites along with the implementation of breadth first search:
